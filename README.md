@@ -2,6 +2,8 @@
 
 A sophisticated AI-powered card game platform that trains a model using Deep Q-Learning, evaluates its performance, and visualizes results through an interactive web dashboard built with React and Tailwind CSS.
 
+🚀 **Live Portfolio Site:**  
+🔗 [https://talhasiddik.github.io/dqn-card-game/](https://talhasiddik.github.io/dqn-card-game/)
 
 ## Project Overview
 
