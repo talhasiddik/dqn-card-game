@@ -1,0 +1,25 @@
+2025-03-11 15:12:18,528 - __main__ - INFO - Generated 50 sample cards
+2025-03-11 15:12:18,528 - __main__ - WARNING - Match history file match_history.json not found.
+2025-03-11 15:12:18,530 - __main__ - INFO - Saved 1 matches to history
+2025-03-11 15:12:18,531 - __main__ - INFO - Deck win rate: 1.00
+2025-03-11 15:12:18,531 - __main__ - INFO - Recommended cards to replace:
+2025-03-11 15:12:18,532 - __main__ - INFO - Card 1 (Win Rate: 1.00)
+2025-03-11 15:12:18,533 - __main__ - INFO - Card 2 (Win Rate: 1.00)
+2025-03-11 15:12:18,533 - __main__ - INFO - Card 3 (Win Rate: 1.00)
+2025-03-11 15:17:54,658 - __main__ - INFO - Generated 50 sample cards
+2025-03-11 15:17:54,660 - __main__ - INFO - Loaded 1 matches from history
+2025-03-11 15:17:54,660 - __main__ - INFO - Simulating 100 matches to populate match history...
+2025-03-11 15:17:54,831 - __main__ - INFO - Added 100 matches to history
+2025-03-11 15:17:54,841 - __main__ - INFO - Saved 101 matches to history
+2025-03-11 15:17:54,842 - __main__ - INFO - Deck win rate: 0.00
+2025-03-11 15:17:54,842 - __main__ - INFO - Recommended cards to replace:
+2025-03-11 15:17:54,843 - __main__ - INFO - Card 10 (Win Rate: 0.41)
+2025-03-11 15:17:54,844 - __main__ - INFO - Card 9 (Win Rate: 0.42)
+2025-03-11 15:17:54,845 - __main__ - INFO - Card 8 (Win Rate: 0.44)
+2025-03-11 15:17:55,093 - __main__ - INFO - Top 5 predicted decks:
+2025-03-11 15:17:55,095 - __main__ - INFO - Deck: [16, 1, 36, 37, 24, 26, 3, 43, 14, 33, 28, 22, 40, 27, 17, 35, 21, 42, 41, 11, 25, 30, 13, 32, 39, 4, 2, 19, 6, 12], Predicted Win Rate: 1.00
+2025-03-11 15:17:55,096 - __main__ - INFO - Deck: [17, 29, 3, 37, 46, 39, 28, 44, 38, 18, 42, 27, 7, 49, 6, 33, 5, 13, 41, 11, 12, 2, 30, 36, 48, 24, 43, 15, 25, 26], Predicted Win Rate: 1.00
+2025-03-11 15:17:55,096 - __main__ - INFO - Deck: [31, 29, 10, 7, 27, 43, 42, 22, 8, 38, 1, 20, 49, 28, 37, 11, 48, 3, 46, 30, 41, 32, 16, 2, 36, 14, 44, 45, 26, 12], Predicted Win Rate: 1.00
+2025-03-11 15:17:55,097 - __main__ - INFO - Deck: [42, 24, 14, 26, 38, 20, 32, 37, 43, 33, 23, 29, 4, 49, 11, 12, 13, 9, 18, 19, 35, 46, 41, 22, 7, 3, 40, 27, 48, 17], Predicted Win Rate: 1.00
+2025-03-11 15:17:55,098 - __main__ - INFO - Deck: [44, 43, 19, 40, 13, 36, 26, 46, 15, 39, 9, 49, 23, 28, 3, 16, 1, 32, 5, 29, 50, 48, 12, 41, 47, 4, 37, 24, 17, 21], Predicted Win Rate: 1.00
+2025-03-11 15:17:56,487 - __main__ - INFO - Saved 50 cards to database

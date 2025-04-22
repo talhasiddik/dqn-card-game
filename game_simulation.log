@@ -1,0 +1,610 @@
+2025-03-09 16:59:20,019 - __main__ - INFO - Generated 50 sample cards
+2025-03-09 16:59:20,019 - __main__ - INFO - Running initial simulation to verify game mechanics...
+2025-03-09 16:59:20,021 - __main__ - INFO - Game 5 completed in 10 turns. Winner: 1
+2025-03-09 16:59:20,024 - __main__ - INFO - Game 5 completed in 10 turns. Winner: 0
+2025-03-09 16:59:20,029 - __main__ - INFO - Game 5 completed in 20 turns. Winner: 1
+2025-03-09 16:59:20,034 - __main__ - INFO - Game 5 completed in 14 turns. Winner: 1
+2025-03-09 16:59:20,035 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 1
+2025-03-09 16:59:20,036 - __main__ - INFO - Game 5 completed in 7 turns. Winner: 0
+2025-03-09 16:59:20,039 - __main__ - INFO - Game 5 completed in 8 turns. Winner: 0
+2025-03-09 16:59:20,077 - __main__ - INFO - Game 5 completed in 8 turns. Winner: 1
+2025-03-09 16:59:20,080 - __main__ - INFO - Game 5 completed in 8 turns. Winner: 0
+2025-03-09 16:59:20,083 - __main__ - INFO - Game 5 completed in 5 turns. Winner: 0
+2025-03-09 16:59:20,083 - __main__ - INFO - Simulation results - Player wins: 5, Opponent wins: 5
+2025-03-09 16:59:20,084 - __main__ - INFO - Training DQN agent...
+2025-03-09 17:27:34,174 - __main__ - INFO - Generated 50 sample cards
+2025-03-09 17:27:34,174 - __main__ - INFO - Running initial simulation to verify game mechanics...
+2025-03-09 17:27:34,176 - __main__ - INFO - Game 5 completed in 7 turns. Winner: 1
+2025-03-09 17:27:34,178 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 1
+2025-03-09 17:27:34,180 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 1
+2025-03-09 17:27:34,181 - __main__ - INFO - Game 5 completed in 7 turns. Winner: 1
+2025-03-09 17:27:34,183 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 1
+2025-03-09 17:27:34,184 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 0
+2025-03-09 17:27:34,186 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 0
+2025-03-09 17:27:34,189 - __main__ - INFO - Game 5 completed in 10 turns. Winner: 1
+2025-03-09 17:27:34,192 - __main__ - INFO - Game 5 completed in 7 turns. Winner: 0
+2025-03-09 17:27:34,194 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 1
+2025-03-09 17:27:34,194 - __main__ - INFO - Simulation results - Player wins: 3, Opponent wins: 7
+2025-03-09 17:27:34,199 - __main__ - INFO - Training DQN agent...
+2025-03-09 20:47:30,230 - __main__ - INFO - Generated 50 sample cards
+2025-03-09 20:47:30,231 - __main__ - INFO - Running initial simulation to verify game mechanics...
+2025-03-09 20:47:30,235 - __main__ - INFO - Game 5 completed in 7 turns. Winner: 1
+2025-03-09 20:47:30,256 - __main__ - INFO - Game 5 completed in 13 turns. Winner: 1
+2025-03-09 20:47:30,281 - __main__ - INFO - Game 5 completed in 28 turns. Winner: 0
+2025-03-09 20:47:30,285 - __main__ - INFO - Game 5 completed in 10 turns. Winner: 1
+2025-03-09 20:47:30,299 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 0
+2025-03-09 20:47:30,305 - __main__ - INFO - Game 5 completed in 6 turns. Winner: 1
+2025-03-09 20:47:30,326 - __main__ - INFO - Game 5 completed in 26 turns. Winner: 0
+2025-03-09 20:47:30,385 - __main__ - INFO - Game 5 completed in 100 turns. Winner: None
+2025-03-09 20:47:30,394 - __main__ - INFO - Game 5 completed in 12 turns. Winner: 0
+2025-03-09 20:47:30,399 - __main__ - INFO - Game 5 completed in 7 turns. Winner: 0
+2025-03-09 20:47:30,400 - __main__ - INFO - Simulation results - Player wins: 5, Opponent wins: 4
+2025-03-09 20:47:30,401 - __main__ - INFO - Training DQN agent...
+2025-03-09 22:02:14,183 - __main__ - INFO - Generated 50 sample cards
+2025-03-09 22:02:14,183 - __main__ - INFO - Running initial simulation to verify game mechanics...
+2025-03-09 22:02:14,186 - __main__ - INFO - Game 5 completed in 12 turns. Winner: 1
+2025-03-09 22:02:14,230 - __main__ - INFO - Game 5 completed in 100 turns. Winner: None
+2025-03-09 22:02:14,237 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 1
+2025-03-09 22:02:14,240 - __main__ - INFO - Game 5 completed in 8 turns. Winner: 1
+2025-03-09 22:02:14,246 - __main__ - INFO - Game 5 completed in 19 turns. Winner: 1
+2025-03-09 22:02:14,249 - __main__ - INFO - Game 5 completed in 12 turns. Winner: 0
+2025-03-09 22:02:14,251 - __main__ - INFO - Game 5 completed in 8 turns. Winner: 0
+2025-03-09 22:02:14,254 - __main__ - INFO - Game 5 completed in 7 turns. Winner: 0
+2025-03-09 22:02:14,256 - __main__ - INFO - Game 5 completed in 12 turns. Winner: 1
+2025-03-09 22:02:14,263 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 1
+2025-03-09 22:02:14,264 - __main__ - INFO - Simulation results - Player wins: 3, Opponent wins: 6
+2025-03-09 22:02:14,266 - __main__ - INFO - Training DQN agent...
+2025-03-09 22:15:41,864 - __main__ - INFO - Generated 50 sample cards
+2025-03-09 22:15:41,865 - __main__ - INFO - Running initial simulation to verify game mechanics...
+2025-03-09 22:15:41,867 - __main__ - INFO - Game 5 completed in 12 turns. Winner: 0
+2025-03-09 22:15:41,910 - __main__ - INFO - Game 5 completed in 100 turns. Winner: None
+2025-03-09 22:15:41,920 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 0
+2025-03-09 22:15:41,921 - __main__ - INFO - Game 5 completed in 5 turns. Winner: 0
+2025-03-09 22:15:41,923 - __main__ - INFO - Game 5 completed in 15 turns. Winner: 1
+2025-03-09 22:15:41,926 - __main__ - INFO - Game 5 completed in 8 turns. Winner: 1
+2025-03-09 22:15:41,962 - __main__ - INFO - Game 5 completed in 100 turns. Winner: None
+2025-03-09 22:15:41,973 - __main__ - INFO - Game 5 completed in 6 turns. Winner: 0
+2025-03-09 22:15:41,975 - __main__ - INFO - Game 5 completed in 5 turns. Winner: 1
+2025-03-09 22:15:41,975 - __main__ - INFO - Game 5 completed in 5 turns. Winner: 0
+2025-03-09 22:15:41,977 - __main__ - INFO - Simulation results - Player wins: 5, Opponent wins: 3
+2025-03-09 22:15:41,977 - __main__ - INFO - Training DQN agent...
+2025-03-09 22:16:13,562 - __main__ - INFO - Episode 1/5 - Win rate: 0.00
+2025-03-09 22:21:51,188 - __main__ - INFO - Episode 2/5 - Win rate: 1.00
+2025-03-09 22:30:43,665 - __main__ - INFO - Generated 50 sample cards
+2025-03-09 22:30:43,665 - __main__ - INFO - Running initial simulation to verify game mechanics...
+2025-03-09 22:30:43,670 - __main__ - INFO - Game 5 completed in 19 turns. Winner: 0
+2025-03-09 22:30:43,672 - __main__ - INFO - Game 5 completed in 8 turns. Winner: 0
+2025-03-09 22:30:43,674 - __main__ - INFO - Game 5 completed in 15 turns. Winner: 1
+2025-03-09 22:30:43,676 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 0
+2025-03-09 22:30:43,678 - __main__ - INFO - Game 5 completed in 8 turns. Winner: 0
+2025-03-09 22:30:43,708 - __main__ - INFO - Game 5 completed in 100 turns. Winner: None
+2025-03-09 22:30:43,713 - __main__ - INFO - Game 5 completed in 8 turns. Winner: 0
+2025-03-09 22:30:43,744 - __main__ - INFO - Game 5 completed in 100 turns. Winner: None
+2025-03-09 22:30:43,750 - __main__ - INFO - Game 5 completed in 7 turns. Winner: 1
+2025-03-09 22:30:43,752 - __main__ - INFO - Game 5 completed in 6 turns. Winner: 0
+2025-03-09 22:30:43,753 - __main__ - INFO - Simulation results - Player wins: 6, Opponent wins: 2
+2025-03-09 22:30:43,753 - __main__ - INFO - Training DQN agent...
+2025-03-09 22:33:59,020 - __main__ - INFO - Training completed!
+2025-03-09 22:33:59,021 - __main__ - INFO - Evaluating trained agent...
+2025-03-11 00:19:15,695 - __main__ - INFO - Generated 50 sample cards
+2025-03-11 00:19:15,696 - __main__ - INFO - Running initial simulation to verify game mechanics...
+2025-03-11 00:19:15,698 - __main__ - INFO - Game 5 completed in 8 turns. Winner: 0
+2025-03-11 00:19:15,699 - __main__ - INFO - Game 5 completed in 8 turns. Winner: 0
+2025-03-11 00:19:15,704 - __main__ - INFO - Game 5 completed in 19 turns. Winner: 0
+2025-03-11 00:19:15,706 - __main__ - INFO - Game 5 completed in 14 turns. Winner: 1
+2025-03-11 00:19:15,708 - __main__ - INFO - Game 5 completed in 5 turns. Winner: 0
+2025-03-11 00:19:15,711 - __main__ - INFO - Game 5 completed in 8 turns. Winner: 0
+2025-03-11 00:19:15,716 - __main__ - INFO - Game 5 completed in 7 turns. Winner: 0
+2025-03-11 00:19:15,719 - __main__ - INFO - Game 5 completed in 11 turns. Winner: 0
+2025-03-11 00:19:15,721 - __main__ - INFO - Game 5 completed in 6 turns. Winner: 0
+2025-03-11 00:19:15,726 - __main__ - INFO - Game 5 completed in 10 turns. Winner: 0
+2025-03-11 00:19:15,727 - __main__ - INFO - Simulation results - Player wins: 9, Opponent wins: 1
+2025-03-11 00:19:15,727 - __main__ - INFO - Training DQN agent...
+2025-03-11 00:20:34,277 - __main__ - INFO - Training completed!
+2025-03-11 00:20:34,278 - __main__ - INFO - Evaluating trained agent...
+2025-03-11 00:20:46,094 - __main__ - WARNING - Game 1 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 00:20:46,096 - __main__ - INFO - Evaluation results:
+2025-03-11 00:20:46,097 - __main__ - INFO - Win rate: 0.00
+2025-03-11 00:20:46,097 - __main__ - INFO - Average reward: 110.00
+2025-03-11 00:20:47,564 - __main__ - INFO - Phase 1 completed!
+2025-03-11 00:34:15,053 - __main__ - INFO - Generated 50 sample cards
+2025-03-11 00:34:15,053 - __main__ - INFO - Running initial simulation to verify game mechanics...
+2025-03-11 00:34:15,058 - __main__ - INFO - Game 5 completed in 13 turns. Winner: 0
+2025-03-11 00:34:15,063 - __main__ - INFO - Game 5 completed in 20 turns. Winner: 0
+2025-03-11 00:34:15,070 - __main__ - INFO - Game 5 completed in 7 turns. Winner: 1
+2025-03-11 00:34:15,072 - __main__ - INFO - Game 5 completed in 9 turns. Winner: 1
+2025-03-11 00:34:15,074 - __main__ - INFO - Game 5 completed in 11 turns. Winner: 1
+2025-03-11 00:34:15,075 - __main__ - INFO - Game 5 completed in 7 turns. Winner: 1
+2025-03-11 00:34:15,077 - __main__ - INFO - Game 5 completed in 10 turns. Winner: 0
+2025-03-11 00:34:15,078 - __main__ - INFO - Game 5 completed in 5 turns. Winner: 0
+2025-03-11 00:34:15,079 - __main__ - INFO - Game 5 completed in 5 turns. Winner: 0
+2025-03-11 00:34:15,080 - __main__ - INFO - Game 5 completed in 7 turns. Winner: 0
+2025-03-11 00:34:15,081 - __main__ - INFO - Simulation results - Player wins: 6, Opponent wins: 4
+2025-03-11 00:34:15,081 - __main__ - INFO - Training DQN agent...
+2025-03-11 00:48:44,929 - __main__ - INFO - Episode 5/20 - Win rate: 0.00
+2025-03-11 01:17:03,969 - __main__ - INFO - Episode 10/20 - Win rate: 0.00
+2025-03-11 04:57:59,707 - __main__ - INFO - Episode 15/20 - Win rate: 0.40
+2025-03-11 07:32:53,688 - __main__ - INFO - Training completed!
+2025-03-11 07:32:53,696 - __main__ - INFO - Evaluating trained agent...
+2025-03-11 07:33:04,332 - __main__ - WARNING - Game 1 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:33:14,931 - __main__ - WARNING - Game 2 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:33:25,475 - __main__ - WARNING - Game 3 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:33:36,212 - __main__ - WARNING - Game 4 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:33:46,572 - __main__ - WARNING - Game 5 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:33:57,048 - __main__ - WARNING - Game 6 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:34:07,483 - __main__ - WARNING - Game 7 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:34:17,957 - __main__ - WARNING - Game 8 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:34:28,444 - __main__ - WARNING - Game 9 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:34:39,002 - __main__ - WARNING - Game 10 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:34:49,565 - __main__ - WARNING - Game 11 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:35:00,227 - __main__ - WARNING - Game 12 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:35:10,822 - __main__ - WARNING - Game 13 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:35:21,365 - __main__ - WARNING - Game 14 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:35:32,029 - __main__ - WARNING - Game 15 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:35:42,473 - __main__ - WARNING - Game 16 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:35:52,948 - __main__ - WARNING - Game 17 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:36:03,440 - __main__ - WARNING - Game 18 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:36:13,905 - __main__ - WARNING - Game 19 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:36:24,249 - __main__ - WARNING - Game 20 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:36:34,682 - __main__ - WARNING - Game 21 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:36:45,217 - __main__ - WARNING - Game 22 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:36:55,904 - __main__ - WARNING - Game 23 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:37:06,503 - __main__ - WARNING - Game 24 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:37:17,082 - __main__ - WARNING - Game 25 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:37:27,542 - __main__ - WARNING - Game 26 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:37:37,909 - __main__ - WARNING - Game 27 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:37:48,411 - __main__ - WARNING - Game 28 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:37:58,897 - __main__ - WARNING - Game 29 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:38:09,423 - __main__ - WARNING - Game 30 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:38:19,814 - __main__ - WARNING - Game 31 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:38:30,294 - __main__ - WARNING - Game 32 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:38:40,873 - __main__ - WARNING - Game 33 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:38:51,353 - __main__ - WARNING - Game 34 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:39:01,856 - __main__ - WARNING - Game 35 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:39:12,451 - __main__ - WARNING - Game 36 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:39:23,018 - __main__ - WARNING - Game 37 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:39:33,521 - __main__ - WARNING - Game 38 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:39:44,119 - __main__ - WARNING - Game 39 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:39:54,573 - __main__ - WARNING - Game 40 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:40:05,037 - __main__ - WARNING - Game 41 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:40:15,392 - __main__ - WARNING - Game 42 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:40:26,189 - __main__ - WARNING - Game 43 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:40:36,628 - __main__ - WARNING - Game 44 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:40:47,228 - __main__ - WARNING - Game 45 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:40:57,884 - __main__ - WARNING - Game 46 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:41:08,504 - __main__ - WARNING - Game 47 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:41:19,017 - __main__ - WARNING - Game 48 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:41:29,592 - __main__ - WARNING - Game 49 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:41:40,011 - __main__ - WARNING - Game 50 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:41:50,435 - __main__ - WARNING - Game 51 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:42:00,926 - __main__ - WARNING - Game 52 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:42:11,568 - __main__ - WARNING - Game 53 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:42:22,180 - __main__ - WARNING - Game 54 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:42:32,797 - __main__ - WARNING - Game 55 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:42:43,507 - __main__ - WARNING - Game 56 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:42:54,148 - __main__ - WARNING - Game 57 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:43:04,729 - __main__ - WARNING - Game 58 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:43:15,292 - __main__ - WARNING - Game 59 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:43:25,832 - __main__ - WARNING - Game 60 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:43:36,268 - __main__ - WARNING - Game 61 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:43:46,803 - __main__ - WARNING - Game 62 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:43:57,212 - __main__ - WARNING - Game 63 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:44:07,899 - __main__ - WARNING - Game 64 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:44:18,377 - __main__ - WARNING - Game 65 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:44:28,854 - __main__ - WARNING - Game 66 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:44:39,332 - __main__ - WARNING - Game 67 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:44:49,933 - __main__ - WARNING - Game 68 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:45:00,681 - __main__ - WARNING - Game 69 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:45:11,245 - __main__ - WARNING - Game 70 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:45:21,796 - __main__ - WARNING - Game 71 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:45:32,483 - __main__ - WARNING - Game 72 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:45:42,851 - __main__ - WARNING - Game 73 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:45:53,401 - __main__ - WARNING - Game 74 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:46:03,793 - __main__ - WARNING - Game 75 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:46:14,752 - __main__ - WARNING - Game 76 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:46:25,182 - __main__ - WARNING - Game 77 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:46:35,824 - __main__ - WARNING - Game 78 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:46:46,307 - __main__ - WARNING - Game 79 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:46:56,950 - __main__ - WARNING - Game 80 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:47:07,607 - __main__ - WARNING - Game 81 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:47:18,048 - __main__ - WARNING - Game 82 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:47:28,519 - __main__ - WARNING - Game 83 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:47:38,958 - __main__ - WARNING - Game 84 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:47:49,405 - __main__ - WARNING - Game 85 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:47:59,908 - __main__ - WARNING - Game 86 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:48:10,559 - __main__ - WARNING - Game 87 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:48:20,993 - __main__ - WARNING - Game 88 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:48:31,718 - __main__ - WARNING - Game 89 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:48:42,442 - __main__ - WARNING - Game 90 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:48:53,040 - __main__ - WARNING - Game 91 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:49:03,610 - __main__ - WARNING - Game 92 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:49:14,244 - __main__ - WARNING - Game 93 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:49:24,672 - __main__ - WARNING - Game 94 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:49:35,251 - __main__ - WARNING - Game 95 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:49:45,675 - __main__ - WARNING - Game 96 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:49:56,111 - __main__ - WARNING - Game 97 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:50:06,781 - __main__ - WARNING - Game 98 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:50:17,284 - __main__ - WARNING - Game 99 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:50:28,044 - __main__ - WARNING - Game 100 exceeded turn limit (100 turns). Forcing end.
+2025-03-11 07:50:28,046 - __main__ - INFO - Evaluation results:
+2025-03-11 07:50:28,047 - __main__ - INFO - Win rate: 0.09
+2025-03-11 07:50:28,047 - __main__ - INFO - Average reward: 65.00
+2025-03-11 07:50:28,392 - __main__ - INFO - Phase 1 completed!
+2025-03-11 15:54:35,752 - game - INFO - Loaded 50 cards from database
+2025-03-11 15:54:35,768 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 15:58:08,121 - game - INFO - Loaded 50 cards from database
+2025-03-11 15:58:08,122 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 16:02:37,045 - game - INFO - Loaded 50 cards from database
+2025-03-11 16:02:37,047 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 16:02:37,298 - __main__ - INFO - Simulating 100 matches using the trained DQN agent...
+2025-03-11 16:04:57,635 - game - INFO - Loaded 50 cards from database
+2025-03-11 16:04:57,637 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 16:04:57,890 - __main__ - INFO - Simulating 100 matches using the trained DQN agent...
+2025-03-11 16:08:19,358 - game - INFO - Loaded 50 cards from database
+2025-03-11 16:08:19,359 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 16:08:19,614 - __main__ - INFO - Simulating 100 matches using the trained DQN agent...
+2025-03-11 16:13:30,454 - game - INFO - Loaded 50 cards from database
+2025-03-11 16:13:30,455 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 16:13:30,704 - __main__ - INFO - Simulating 100 matches using the trained DQN agent...
+2025-03-11 16:27:25,439 - game - INFO - Loaded 50 cards from database
+2025-03-11 16:27:25,442 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 16:27:25,751 - __main__ - INFO - Simulating 100 matches using the trained DQN agent...
+2025-03-11 16:38:42,195 - game - INFO - Loaded 50 cards from database
+2025-03-11 16:38:42,197 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 16:38:42,454 - __main__ - INFO - Simulating 100 matches using the trained DQN agent...
+2025-03-11 16:54:45,578 - game - INFO - Loaded 50 cards from database
+2025-03-11 16:54:45,579 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 16:54:45,908 - __main__ - INFO - Simulating 100 matches using the trained DQN agent...
+2025-03-11 16:59:48,931 - game - INFO - Loaded 50 cards from database
+2025-03-11 16:59:48,932 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 16:59:49,186 - __main__ - INFO - Simulating 100 matches using the trained DQN agent...
+2025-03-11 17:05:02,182 - game - INFO - Loaded 50 cards from database
+2025-03-11 17:05:02,182 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 17:05:02,451 - __main__ - INFO - Simulating 100 matches using the trained DQN agent...
+2025-03-11 17:07:20,528 - game - INFO - Loaded 50 cards from database
+2025-03-11 17:07:20,530 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 17:07:20,785 - __main__ - INFO - Simulating 100 matches using the trained DQN agent...
+2025-03-11 17:10:10,982 - game - INFO - Loaded 50 cards from database
+2025-03-11 17:10:10,984 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 17:10:11,236 - __main__ - INFO - Simulating 100 matches using the trained DQN agent...
+2025-03-11 17:13:04,324 - game - INFO - Loaded 50 cards from database
+2025-03-11 17:13:04,325 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 17:13:04,580 - __main__ - INFO - Simulating 1 matches using the trained DQN agent...
+2025-03-11 17:14:55,110 - game - INFO - Loaded 50 cards from database
+2025-03-11 17:14:55,112 - __main__ - INFO - Loaded 101 matches from history
+2025-03-11 17:14:55,367 - __main__ - INFO - Simulating 1 matches using the trained DQN agent...
+2025-03-11 17:14:55,368 - __main__ - INFO - Starting match 1/1
+2025-03-11 17:14:56,389 - __main__ - INFO -   Match 1: Turn 10
+2025-03-11 17:14:57,380 - __main__ - INFO -   Match 1: Turn 20
+2025-03-11 17:14:58,406 - __main__ - INFO -   Match 1: Turn 30
+2025-03-11 17:14:59,404 - __main__ - INFO -   Match 1: Turn 40
+2025-03-11 17:15:00,475 - __main__ - INFO -   Match 1: Turn 50
+2025-03-11 17:15:01,515 - __main__ - INFO -   Match 1: Turn 60
+2025-03-11 17:15:02,562 - __main__ - INFO -   Match 1: Turn 70
+2025-03-11 17:15:03,564 - __main__ - INFO -   Match 1: Turn 80
+2025-03-11 17:15:04,569 - __main__ - INFO -   Match 1: Turn 90
+2025-03-11 17:15:05,575 - __main__ - INFO -   Match 1: Turn 100
+2025-03-11 17:15:05,679 - __main__ - WARNING -   Match 1: Reached maximum turns (100), forcing game end
+2025-03-11 17:15:05,679 - __main__ - INFO -   Match 1: Completed - Winner: Player 0
+2025-03-11 17:15:05,680 - __main__ - INFO - Added 1 matches to history
+2025-03-11 17:15:05,689 - __main__ - INFO - Saved 102 matches to history
+2025-03-11 17:15:05,690 - __main__ - INFO - Deck win rate: 0.00
+2025-03-11 17:15:05,690 - __main__ - INFO - Recommended cards to replace:
+2025-03-11 17:15:05,691 - __main__ - INFO - Card 2 (Win Rate: 0.00)
+2025-03-11 17:15:05,691 - __main__ - INFO - Card 3 (Win Rate: 0.00)
+2025-03-11 17:15:05,692 - __main__ - INFO - Card 5 (Win Rate: 0.00)
+2025-03-11 17:26:36,869 - game - INFO - Loaded 50 cards from database
+2025-03-11 17:26:36,892 - __main__ - INFO - Loaded 102 matches from history
+2025-03-11 17:26:37,168 - __main__ - INFO - Simulating 1 matches using the trained DQN agent...
+2025-03-11 17:26:37,169 - __main__ - INFO - Starting match 1/1
+2025-03-11 17:26:38,257 - __main__ - INFO -   Match 1: Turn 10
+2025-03-11 17:26:39,333 - __main__ - INFO -   Match 1: Turn 20
+2025-03-11 17:26:40,391 - __main__ - INFO -   Match 1: Turn 30
+2025-03-11 17:26:41,381 - __main__ - INFO -   Match 1: Turn 40
+2025-03-11 17:26:42,563 - __main__ - INFO -   Match 1: Turn 50
+2025-03-11 17:26:43,724 - __main__ - INFO -   Match 1: Turn 60
+2025-03-11 17:26:44,962 - __main__ - INFO -   Match 1: Turn 70
+2025-03-11 17:26:46,196 - __main__ - INFO -   Match 1: Turn 80
+2025-03-11 17:26:47,369 - __main__ - INFO -   Match 1: Turn 90
+2025-03-11 17:26:48,375 - __main__ - INFO -   Match 1: Turn 100
+2025-03-11 17:26:48,492 - __main__ - WARNING -   Match 1: Reached maximum turns (100), forcing game end
+2025-03-11 17:26:48,492 - __main__ - INFO -   Match 1: Completed - Winner: Player 0
+2025-03-11 17:26:48,492 - __main__ - INFO - Added 1 matches to history
+2025-03-11 17:26:48,519 - __main__ - INFO - Saved 103 matches to history
+2025-03-11 17:26:48,519 - __main__ - INFO - Deck win rate: 0.00
+2025-03-11 17:26:48,520 - __main__ - INFO - Recommended cards to replace:
+2025-03-11 17:26:48,520 - __main__ - INFO - Card 2 (Win Rate: 0.00)
+2025-03-11 17:26:48,520 - __main__ - INFO - Card 5 (Win Rate: 0.00)
+2025-03-11 17:26:48,521 - __main__ - INFO - Card 8 (Win Rate: 0.00)
+2025-03-11 17:33:22,941 - game - INFO - Loaded 50 cards from database
+2025-03-11 17:33:22,956 - __main__ - INFO - Loaded 103 matches from history
+2025-03-11 17:33:23,237 - __main__ - INFO - Simulating 10 matches using the trained DQN agent...
+2025-03-11 17:33:23,238 - __main__ - INFO - Starting match 1/10
+2025-03-11 17:33:24,258 - __main__ - INFO -   Match 1: Turn 10
+2025-03-11 17:33:25,287 - __main__ - INFO -   Match 1: Turn 20
+2025-03-11 17:33:26,318 - __main__ - INFO -   Match 1: Turn 30
+2025-03-11 17:33:27,343 - __main__ - INFO -   Match 1: Turn 40
+2025-03-11 17:33:28,351 - __main__ - INFO -   Match 1: Turn 50
+2025-03-11 17:33:29,427 - __main__ - INFO -   Match 1: Turn 60
+2025-03-11 17:33:30,476 - __main__ - INFO -   Match 1: Turn 70
+2025-03-11 17:33:31,529 - __main__ - INFO -   Match 1: Turn 80
+2025-03-11 17:33:32,561 - __main__ - INFO -   Match 1: Turn 90
+2025-03-11 17:33:33,633 - __main__ - INFO -   Match 1: Turn 100
+2025-03-11 17:33:33,745 - __main__ - WARNING -   Match 1: Reached maximum turns (100), forcing game end
+2025-03-11 17:33:33,745 - __main__ - INFO -   Match 1: Completed - Winner: Player 1
+2025-03-11 17:33:33,746 - __main__ - INFO - Starting match 2/10
+2025-03-11 17:33:34,670 - __main__ - INFO -   Match 2: Turn 10
+2025-03-11 17:33:35,742 - __main__ - INFO -   Match 2: Turn 20
+2025-03-11 17:33:36,819 - __main__ - INFO -   Match 2: Turn 30
+2025-03-11 17:33:37,859 - __main__ - INFO -   Match 2: Turn 40
+2025-03-11 17:33:38,878 - __main__ - INFO -   Match 2: Turn 50
+2025-03-11 17:33:39,983 - __main__ - INFO -   Match 2: Turn 60
+2025-03-11 17:33:41,058 - __main__ - INFO -   Match 2: Turn 70
+2025-03-11 17:33:42,106 - __main__ - INFO -   Match 2: Turn 80
+2025-03-11 17:33:43,137 - __main__ - INFO -   Match 2: Turn 90
+2025-03-11 17:33:44,144 - __main__ - INFO -   Match 2: Turn 100
+2025-03-11 17:33:44,250 - __main__ - WARNING -   Match 2: Reached maximum turns (100), forcing game end
+2025-03-11 17:33:44,251 - __main__ - INFO -   Match 2: Completed - Winner: Player 1
+2025-03-11 17:33:44,251 - __main__ - INFO - Starting match 3/10
+2025-03-11 17:33:45,244 - __main__ - INFO -   Match 3: Turn 10
+2025-03-11 17:33:46,304 - __main__ - INFO -   Match 3: Turn 20
+2025-03-11 17:33:47,360 - __main__ - INFO -   Match 3: Turn 30
+2025-03-11 17:33:48,386 - __main__ - INFO -   Match 3: Turn 40
+2025-03-11 17:33:49,463 - __main__ - INFO -   Match 3: Turn 50
+2025-03-11 17:33:50,492 - __main__ - INFO -   Match 3: Turn 60
+2025-03-11 17:33:51,569 - __main__ - INFO -   Match 3: Turn 70
+2025-03-11 17:33:52,576 - __main__ - INFO -   Match 3: Turn 80
+2025-03-11 17:33:53,604 - __main__ - INFO -   Match 3: Turn 90
+2025-03-11 17:33:54,643 - __main__ - INFO -   Match 3: Turn 100
+2025-03-11 17:33:54,750 - __main__ - WARNING -   Match 3: Reached maximum turns (100), forcing game end
+2025-03-11 17:33:54,751 - __main__ - INFO -   Match 3: Completed - Winner: Player 1
+2025-03-11 17:33:54,751 - __main__ - INFO - Starting match 4/10
+2025-03-11 17:33:55,687 - __main__ - INFO -   Match 4: Turn 10
+2025-03-11 17:33:56,738 - __main__ - INFO -   Match 4: Turn 20
+2025-03-11 17:33:57,723 - __main__ - INFO -   Match 4: Turn 30
+2025-03-11 17:33:58,763 - __main__ - INFO -   Match 4: Turn 40
+2025-03-11 17:33:59,784 - __main__ - INFO -   Match 4: Turn 50
+2025-03-11 17:34:00,874 - __main__ - INFO -   Match 4: Turn 60
+2025-03-11 17:34:01,887 - __main__ - INFO -   Match 4: Turn 70
+2025-03-11 17:34:02,960 - __main__ - INFO -   Match 4: Turn 80
+2025-03-11 17:34:03,971 - __main__ - INFO -   Match 4: Turn 90
+2025-03-11 17:34:05,059 - __main__ - INFO -   Match 4: Turn 100
+2025-03-11 17:34:05,168 - __main__ - WARNING -   Match 4: Reached maximum turns (100), forcing game end
+2025-03-11 17:34:05,169 - __main__ - INFO -   Match 4: Completed - Winner: Player 0
+2025-03-11 17:34:05,169 - __main__ - INFO - Starting match 5/10
+2025-03-11 17:34:06,096 - __main__ - INFO -   Match 5: Turn 10
+2025-03-11 17:34:07,302 - __main__ - INFO -   Match 5: Turn 20
+2025-03-11 17:34:08,306 - __main__ - INFO -   Match 5: Turn 30
+2025-03-11 17:34:09,515 - __main__ - INFO -   Match 5: Turn 40
+2025-03-11 17:34:10,656 - __main__ - INFO -   Match 5: Turn 50
+2025-03-11 17:34:11,822 - __main__ - INFO -   Match 5: Turn 60
+2025-03-11 17:34:12,904 - __main__ - INFO -   Match 5: Turn 70
+2025-03-11 17:34:13,907 - __main__ - INFO -   Match 5: Turn 80
+2025-03-11 17:34:14,928 - __main__ - INFO -   Match 5: Turn 90
+2025-03-11 17:34:15,923 - __main__ - INFO -   Match 5: Turn 100
+2025-03-11 17:34:16,039 - __main__ - WARNING -   Match 5: Reached maximum turns (100), forcing game end
+2025-03-11 17:34:16,040 - __main__ - INFO -   Match 5: Completed - Winner: Player 0
+2025-03-11 17:34:16,040 - __main__ - INFO - Starting match 6/10
+2025-03-11 17:34:16,974 - __main__ - INFO -   Match 6: Turn 10
+2025-03-11 17:34:17,993 - __main__ - INFO -   Match 6: Turn 20
+2025-03-11 17:34:19,052 - __main__ - INFO -   Match 6: Turn 30
+2025-03-11 17:34:20,046 - __main__ - INFO -   Match 6: Turn 40
+2025-03-11 17:34:21,143 - __main__ - INFO -   Match 6: Turn 50
+2025-03-11 17:34:22,141 - __main__ - INFO -   Match 6: Turn 60
+2025-03-11 17:34:23,257 - __main__ - INFO -   Match 6: Turn 70
+2025-03-11 17:34:24,461 - __main__ - INFO -   Match 6: Turn 80
+2025-03-11 17:34:25,646 - __main__ - INFO -   Match 6: Turn 90
+2025-03-11 17:34:26,849 - __main__ - INFO -   Match 6: Turn 100
+2025-03-11 17:34:26,972 - __main__ - WARNING -   Match 6: Reached maximum turns (100), forcing game end
+2025-03-11 17:34:26,973 - __main__ - INFO -   Match 6: Completed - Winner: Player 0
+2025-03-11 17:34:26,973 - __main__ - INFO - Starting match 7/10
+2025-03-11 17:34:28,033 - __main__ - INFO -   Match 7: Turn 10
+2025-03-11 17:34:29,089 - __main__ - INFO -   Match 7: Turn 20
+2025-03-11 17:34:30,190 - __main__ - INFO -   Match 7: Turn 30
+2025-03-11 17:34:31,188 - __main__ - INFO -   Match 7: Turn 40
+2025-03-11 17:34:32,471 - __main__ - INFO -   Match 7: Turn 50
+2025-03-11 17:34:33,455 - __main__ - INFO -   Match 7: Turn 60
+2025-03-11 17:34:34,515 - __main__ - INFO -   Match 7: Turn 70
+2025-03-11 17:34:35,495 - __main__ - INFO -   Match 7: Turn 80
+2025-03-11 17:34:36,514 - __main__ - INFO -   Match 7: Turn 90
+2025-03-11 17:34:37,555 - __main__ - INFO -   Match 7: Turn 100
+2025-03-11 17:34:37,663 - __main__ - WARNING -   Match 7: Reached maximum turns (100), forcing game end
+2025-03-11 17:34:37,664 - __main__ - INFO -   Match 7: Completed - Winner: Player 0
+2025-03-11 17:34:37,664 - __main__ - INFO - Starting match 8/10
+2025-03-11 17:34:38,555 - __main__ - INFO -   Match 8: Turn 10
+2025-03-11 17:34:39,597 - __main__ - INFO -   Match 8: Turn 20
+2025-03-11 17:34:40,568 - __main__ - INFO -   Match 8: Turn 30
+2025-03-11 17:34:41,609 - __main__ - INFO -   Match 8: Turn 40
+2025-03-11 17:34:42,617 - __main__ - INFO -   Match 8: Turn 50
+2025-03-11 17:34:43,719 - __main__ - INFO -   Match 8: Turn 60
+2025-03-11 17:34:44,706 - __main__ - INFO -   Match 8: Turn 70
+2025-03-11 17:34:45,698 - __main__ - INFO -   Match 8: Turn 80
+2025-03-11 17:34:46,812 - __main__ - INFO -   Match 8: Turn 90
+2025-03-11 17:34:47,786 - __main__ - INFO -   Match 8: Turn 100
+2025-03-11 17:34:47,888 - __main__ - WARNING -   Match 8: Reached maximum turns (100), forcing game end
+2025-03-11 17:34:47,889 - __main__ - INFO -   Match 8: Completed - Winner: Player 1
+2025-03-11 17:34:47,890 - __main__ - INFO - Starting match 9/10
+2025-03-11 17:34:48,820 - __main__ - INFO -   Match 9: Turn 10
+2025-03-11 17:34:49,799 - __main__ - INFO -   Match 9: Turn 20
+2025-03-11 17:34:50,874 - __main__ - INFO -   Match 9: Turn 30
+2025-03-11 17:34:51,854 - __main__ - INFO -   Match 9: Turn 40
+2025-03-11 17:34:52,938 - __main__ - INFO -   Match 9: Turn 50
+2025-03-11 17:34:54,053 - __main__ - INFO -   Match 9: Turn 60
+2025-03-11 17:34:55,073 - __main__ - INFO -   Match 9: Turn 70
+2025-03-11 17:34:56,065 - __main__ - INFO -   Match 9: Turn 80
+2025-03-11 17:34:57,042 - __main__ - INFO -   Match 9: Turn 90
+2025-03-11 17:34:58,121 - __main__ - INFO -   Match 9: Turn 100
+2025-03-11 17:34:58,235 - __main__ - WARNING -   Match 9: Reached maximum turns (100), forcing game end
+2025-03-11 17:34:58,236 - __main__ - INFO -   Match 9: Completed - Winner: Player 1
+2025-03-11 17:34:58,237 - __main__ - INFO - Starting match 10/10
+2025-03-11 17:34:59,153 - __main__ - INFO -   Match 10: Turn 10
+2025-03-11 17:35:00,197 - __main__ - INFO -   Match 10: Turn 20
+2025-03-11 17:35:01,208 - __main__ - INFO -   Match 10: Turn 30
+2025-03-11 17:35:02,285 - __main__ - INFO -   Match 10: Turn 40
+2025-03-11 17:35:03,266 - __main__ - INFO -   Match 10: Turn 50
+2025-03-11 17:35:04,311 - __main__ - INFO -   Match 10: Turn 60
+2025-03-11 17:35:05,290 - __main__ - INFO -   Match 10: Turn 70
+2025-03-11 17:35:06,318 - __main__ - INFO -   Match 10: Turn 80
+2025-03-11 17:35:07,475 - __main__ - INFO -   Match 10: Turn 90
+2025-03-11 17:35:08,504 - __main__ - INFO -   Match 10: Turn 100
+2025-03-11 17:35:08,619 - __main__ - WARNING -   Match 10: Reached maximum turns (100), forcing game end
+2025-03-11 17:35:08,621 - __main__ - INFO -   Match 10: Completed - Winner: Player 0
+2025-03-11 17:35:08,621 - __main__ - INFO - Added 10 matches to history
+2025-03-11 17:35:08,646 - __main__ - INFO - Saved 113 matches to history
+2025-03-11 17:35:08,647 - __main__ - INFO - Deck win rate: 0.00
+2025-03-11 17:35:08,648 - __main__ - INFO - Recommended cards to replace:
+2025-03-11 17:35:08,648 - __main__ - INFO - Card 1 (Win Rate: 0.20)
+2025-03-11 17:35:08,649 - __main__ - INFO - Card 10 (Win Rate: 0.20)
+2025-03-11 17:35:08,650 - __main__ - INFO - Card 8 (Win Rate: 0.40)
+2025-03-11 17:35:08,876 - __main__ - INFO - Top 5 predicted decks:
+2025-03-11 17:35:08,877 - __main__ - INFO - Deck: [23, 28, 35, 47, 15, 16, 4, 7, 2, 9, 27, 30, 14, 37, 18, 20, 43, 33, 10, 11, 34, 46, 26, 1, 48, 38, 45, 29, 36, 44], Predicted Win Rate: 1.00
+2025-03-11 17:35:08,877 - __main__ - INFO - Deck: [37, 21, 33, 38, 39, 10, 25, 18, 12, 2, 9, 36, 44, 45, 7, 24, 50, 14, 35, 34, 3, 43, 28, 16, 8, 1, 5, 26, 20, 49], Predicted Win Rate: 1.00
+2025-03-11 17:35:08,878 - __main__ - INFO - Deck: [34, 32, 44, 10, 5, 50, 4, 36, 33, 42, 6, 40, 9, 14, 21, 16, 31, 23, 47, 49, 46, 19, 7, 2, 17, 18, 13, 8, 20, 27], Predicted Win Rate: 1.00
+2025-03-11 17:35:08,879 - __main__ - INFO - Deck: [49, 39, 41, 25, 28, 45, 11, 10, 17, 8, 46, 33, 22, 14, 7, 40, 20, 36, 47, 23, 44, 34, 35, 9, 12, 13, 42, 2, 3, 4], Predicted Win Rate: 1.00
+2025-03-11 17:35:08,879 - __main__ - INFO - Deck: [48, 38, 11, 1, 50, 41, 44, 23, 28, 19, 17, 25, 13, 7, 47, 21, 24, 12, 42, 26, 5, 22, 2, 20, 33, 3, 4, 14, 32, 16], Predicted Win Rate: 1.00
+2025-03-12 12:42:50,210 - game - INFO - Loaded 50 cards from database
+2025-03-12 12:42:50,226 - __main__ - INFO - Loaded 113 matches from history
+2025-03-12 12:42:50,586 - __main__ - INFO - Simulating 10 matches using the trained DQN agent...
+2025-03-12 12:42:50,587 - __main__ - INFO - Starting match 1/10
+2025-03-12 12:42:51,552 - __main__ - INFO -   Match 1: Turn 10
+2025-03-12 12:42:52,613 - __main__ - INFO -   Match 1: Turn 20
+2025-03-12 12:42:53,594 - __main__ - INFO -   Match 1: Turn 30
+2025-03-12 12:42:54,671 - __main__ - INFO -   Match 1: Turn 40
+2025-03-12 12:42:55,685 - __main__ - INFO -   Match 1: Turn 50
+2025-03-12 12:42:56,716 - __main__ - INFO -   Match 1: Turn 60
+2025-03-12 12:42:57,709 - __main__ - INFO -   Match 1: Turn 70
+2025-03-12 12:42:58,780 - __main__ - INFO -   Match 1: Turn 80
+2025-03-12 12:42:59,784 - __main__ - INFO -   Match 1: Turn 90
+2025-03-12 12:43:00,807 - __main__ - INFO -   Match 1: Turn 100
+2025-03-12 12:43:00,914 - __main__ - WARNING -   Match 1: Reached maximum turns (100), forcing game end
+2025-03-12 12:43:00,915 - __main__ - INFO -   Match 1: Completed - Winner: Player 1
+2025-03-12 12:43:00,915 - __main__ - INFO - Starting match 2/10
+2025-03-12 12:43:01,872 - __main__ - INFO -   Match 2: Turn 10
+2025-03-12 12:43:02,884 - __main__ - INFO -   Match 2: Turn 20
+2025-03-12 12:43:03,980 - __main__ - INFO -   Match 2: Turn 30
+2025-03-12 12:43:04,976 - __main__ - INFO -   Match 2: Turn 40
+2025-03-12 12:43:06,119 - __main__ - INFO -   Match 2: Turn 50
+2025-03-12 12:43:07,122 - __main__ - INFO -   Match 2: Turn 60
+2025-03-12 12:43:08,135 - __main__ - INFO -   Match 2: Turn 70
+2025-03-12 12:43:09,147 - __main__ - INFO -   Match 2: Turn 80
+2025-03-12 12:43:10,188 - __main__ - INFO -   Match 2: Turn 90
+2025-03-12 12:43:11,186 - __main__ - INFO -   Match 2: Turn 100
+2025-03-12 12:43:11,292 - __main__ - WARNING -   Match 2: Reached maximum turns (100), forcing game end
+2025-03-12 12:43:11,293 - __main__ - INFO -   Match 2: Completed - Winner: Player 1
+2025-03-12 12:43:11,294 - __main__ - INFO - Starting match 3/10
+2025-03-12 12:43:12,200 - __main__ - INFO -   Match 3: Turn 10
+2025-03-12 12:43:13,255 - __main__ - INFO -   Match 3: Turn 20
+2025-03-12 12:43:14,258 - __main__ - INFO -   Match 3: Turn 30
+2025-03-12 12:43:15,325 - __main__ - INFO -   Match 3: Turn 40
+2025-03-12 12:43:16,319 - __main__ - INFO -   Match 3: Turn 50
+2025-03-12 12:43:17,342 - __main__ - INFO -   Match 3: Turn 60
+2025-03-12 12:43:18,325 - __main__ - INFO -   Match 3: Turn 70
+2025-03-12 12:43:19,375 - __main__ - INFO -   Match 3: Turn 80
+2025-03-12 12:43:20,502 - __main__ - INFO -   Match 3: Turn 90
+2025-03-12 12:43:21,729 - __main__ - INFO -   Match 3: Turn 100
+2025-03-12 12:43:21,831 - __main__ - WARNING -   Match 3: Reached maximum turns (100), forcing game end
+2025-03-12 12:43:21,832 - __main__ - INFO -   Match 3: Completed - Winner: Player 0
+2025-03-12 12:43:21,832 - __main__ - INFO - Starting match 4/10
+2025-03-12 12:43:22,820 - __main__ - INFO -   Match 4: Turn 10
+2025-03-12 12:43:23,965 - __main__ - INFO -   Match 4: Turn 20
+2025-03-12 12:43:24,969 - __main__ - INFO -   Match 4: Turn 30
+2025-03-12 12:43:26,039 - __main__ - INFO -   Match 4: Turn 40
+2025-03-12 12:43:27,049 - __main__ - INFO -   Match 4: Turn 50
+2025-03-12 12:43:28,077 - __main__ - INFO -   Match 4: Turn 60
+2025-03-12 12:43:29,093 - __main__ - INFO -   Match 4: Turn 70
+2025-03-12 12:43:30,126 - __main__ - INFO -   Match 4: Turn 80
+2025-03-12 12:43:31,174 - __main__ - INFO -   Match 4: Turn 90
+2025-03-12 12:43:32,221 - __main__ - INFO -   Match 4: Turn 100
+2025-03-12 12:43:32,325 - __main__ - WARNING -   Match 4: Reached maximum turns (100), forcing game end
+2025-03-12 12:43:32,326 - __main__ - INFO -   Match 4: Completed - Winner: Player 1
+2025-03-12 12:43:32,326 - __main__ - INFO - Starting match 5/10
+2025-03-12 12:43:33,262 - __main__ - INFO -   Match 5: Turn 10
+2025-03-12 12:43:34,277 - __main__ - INFO -   Match 5: Turn 20
+2025-03-12 12:43:35,363 - __main__ - INFO -   Match 5: Turn 30
+2025-03-12 12:43:36,351 - __main__ - INFO -   Match 5: Turn 40
+2025-03-12 12:43:37,365 - __main__ - INFO -   Match 5: Turn 50
+2025-03-12 12:43:38,371 - __main__ - INFO -   Match 5: Turn 60
+2025-03-12 12:43:39,358 - __main__ - INFO -   Match 5: Turn 70
+2025-03-12 12:43:40,399 - __main__ - INFO -   Match 5: Turn 80
+2025-03-12 12:43:41,378 - __main__ - INFO -   Match 5: Turn 90
+2025-03-12 12:43:42,407 - __main__ - INFO -   Match 5: Turn 100
+2025-03-12 12:43:42,509 - __main__ - WARNING -   Match 5: Reached maximum turns (100), forcing game end
+2025-03-12 12:43:42,509 - __main__ - INFO -   Match 5: Completed - Winner: Player 0
+2025-03-12 12:43:42,510 - __main__ - INFO - Starting match 6/10
+2025-03-12 12:43:43,477 - __main__ - INFO -   Match 6: Turn 10
+2025-03-12 12:43:44,538 - __main__ - INFO -   Match 6: Turn 20
+2025-03-12 12:43:45,522 - __main__ - INFO -   Match 6: Turn 30
+2025-03-12 12:43:46,546 - __main__ - INFO -   Match 6: Turn 40
+2025-03-12 12:43:47,547 - __main__ - INFO -   Match 6: Turn 50
+2025-03-12 12:43:48,562 - __main__ - INFO -   Match 6: Turn 60
+2025-03-12 12:43:49,611 - __main__ - INFO -   Match 6: Turn 70
+2025-03-12 12:43:50,606 - __main__ - INFO -   Match 6: Turn 80
+2025-03-12 12:43:51,646 - __main__ - INFO -   Match 6: Turn 90
+2025-03-12 12:43:52,626 - __main__ - INFO -   Match 6: Turn 100
+2025-03-12 12:43:52,737 - __main__ - WARNING -   Match 6: Reached maximum turns (100), forcing game end
+2025-03-12 12:43:52,738 - __main__ - INFO -   Match 6: Completed - Winner: Player 0
+2025-03-12 12:43:52,739 - __main__ - INFO - Starting match 7/10
+2025-03-12 12:43:53,723 - __main__ - INFO -   Match 7: Turn 10
+2025-03-12 12:43:54,716 - __main__ - INFO -   Match 7: Turn 20
+2025-03-12 12:43:55,757 - __main__ - INFO -   Match 7: Turn 30
+2025-03-12 12:43:56,752 - __main__ - INFO -   Match 7: Turn 40
+2025-03-12 12:43:57,757 - __main__ - INFO -   Match 7: Turn 50
+2025-03-12 12:43:58,795 - __main__ - INFO -   Match 7: Turn 60
+2025-03-12 12:43:59,779 - __main__ - INFO -   Match 7: Turn 70
+2025-03-12 12:44:00,812 - __main__ - INFO -   Match 7: Turn 80
+2025-03-12 12:44:01,849 - __main__ - INFO -   Match 7: Turn 90
+2025-03-12 12:44:02,867 - __main__ - INFO -   Match 7: Turn 100
+2025-03-12 12:44:02,976 - __main__ - WARNING -   Match 7: Reached maximum turns (100), forcing game end
+2025-03-12 12:44:02,977 - __main__ - INFO -   Match 7: Completed - Winner: Player 0
+2025-03-12 12:44:02,977 - __main__ - INFO - Starting match 8/10
+2025-03-12 12:44:03,869 - __main__ - INFO -   Match 8: Turn 10
+2025-03-12 12:44:04,896 - __main__ - INFO -   Match 8: Turn 20
+2025-03-12 12:44:05,880 - __main__ - INFO -   Match 8: Turn 30
+2025-03-12 12:44:06,908 - __main__ - INFO -   Match 8: Turn 40
+2025-03-12 12:44:07,884 - __main__ - INFO -   Match 8: Turn 50
+2025-03-12 12:44:08,865 - __main__ - INFO -   Match 8: Turn 60
+2025-03-12 12:44:09,933 - __main__ - INFO -   Match 8: Turn 70
+2025-03-12 12:44:10,899 - __main__ - INFO -   Match 8: Turn 80
+2025-03-12 12:44:11,978 - __main__ - INFO -   Match 8: Turn 90
+2025-03-12 12:44:13,052 - __main__ - INFO -   Match 8: Turn 100
+2025-03-12 12:44:13,154 - __main__ - WARNING -   Match 8: Reached maximum turns (100), forcing game end
+2025-03-12 12:44:13,155 - __main__ - INFO -   Match 8: Completed - Winner: Player 0
+2025-03-12 12:44:13,155 - __main__ - INFO - Starting match 9/10
+2025-03-12 12:44:14,094 - __main__ - INFO -   Match 9: Turn 10
+2025-03-12 12:44:15,110 - __main__ - INFO -   Match 9: Turn 20
+2025-03-12 12:44:16,133 - __main__ - INFO -   Match 9: Turn 30
+2025-03-12 12:44:17,110 - __main__ - INFO -   Match 9: Turn 40
+2025-03-12 12:44:18,141 - __main__ - INFO -   Match 9: Turn 50
+2025-03-12 12:44:19,106 - __main__ - INFO -   Match 9: Turn 60
+2025-03-12 12:44:20,092 - __main__ - INFO -   Match 9: Turn 70
+2025-03-12 12:44:21,108 - __main__ - INFO -   Match 9: Turn 80
+2025-03-12 12:44:22,103 - __main__ - INFO -   Match 9: Turn 90
+2025-03-12 12:44:23,138 - __main__ - INFO -   Match 9: Turn 100
+2025-03-12 12:44:23,240 - __main__ - WARNING -   Match 9: Reached maximum turns (100), forcing game end
+2025-03-12 12:44:23,241 - __main__ - INFO -   Match 9: Completed - Winner: Player 1
+2025-03-12 12:44:23,241 - __main__ - INFO - Starting match 10/10
+2025-03-12 12:44:24,195 - __main__ - INFO -   Match 10: Turn 10
+2025-03-12 12:44:25,302 - __main__ - INFO -   Match 10: Turn 20
+2025-03-12 12:44:26,454 - __main__ - INFO -   Match 10: Turn 30
+2025-03-12 12:44:27,598 - __main__ - INFO -   Match 10: Turn 40
+2025-03-12 12:44:28,636 - __main__ - INFO -   Match 10: Turn 50
+2025-03-12 12:44:29,743 - __main__ - INFO -   Match 10: Turn 60
+2025-03-12 12:44:30,709 - __main__ - INFO -   Match 10: Turn 70
+2025-03-12 12:44:31,724 - __main__ - INFO -   Match 10: Turn 80
+2025-03-12 12:44:32,866 - __main__ - INFO -   Match 10: Turn 90
+2025-03-12 12:44:33,874 - __main__ - INFO -   Match 10: Turn 100
+2025-03-12 12:44:34,024 - __main__ - WARNING -   Match 10: Reached maximum turns (100), forcing game end
+2025-03-12 12:44:34,024 - __main__ - INFO -   Match 10: Completed - Winner: Player 1
+2025-03-12 12:44:34,025 - __main__ - INFO - Added 10 matches to history
+2025-03-12 12:44:34,035 - __main__ - INFO - Saved 123 matches to history
+2025-03-12 12:44:34,036 - __main__ - INFO - Deck win rate: 0.00
+2025-03-12 12:44:34,037 - __main__ - INFO - Recommended cards to replace:
+2025-03-12 12:44:34,038 - __main__ - INFO - Card 9 (Win Rate: 0.38)
+2025-03-12 12:44:34,039 - __main__ - INFO - Card 8 (Win Rate: 0.40)
+2025-03-12 12:44:34,040 - __main__ - INFO - Card 5 (Win Rate: 0.43)
+2025-03-12 12:44:34,317 - __main__ - INFO - Top 5 predicted decks:
+2025-03-12 12:44:34,318 - __main__ - INFO - Deck: [31, 1, 5, 48, 20, 9, 33, 10, 2, 15, 30, 18, 39, 23, 6, 27, 46, 32, 45, 17, 50, 34, 38, 40, 24, 14, 16, 4, 29, 36], Predicted Win Rate: 1.00
+2025-03-12 12:44:34,318 - __main__ - INFO - Deck: [2, 1, 29, 44, 6, 35, 21, 9, 3, 11, 43, 24, 20, 34, 32, 41, 25, 17, 12, 22, 26, 42, 38, 36, 5, 15, 49, 27, 30, 13], Predicted Win Rate: 1.00
+2025-03-12 12:44:34,319 - __main__ - INFO - Deck: [2, 41, 49, 3, 45, 17, 29, 47, 6, 19, 22, 26, 14, 9, 20, 7, 28, 37, 48, 40, 32, 23, 15, 12, 8, 39, 34, 30, 5, 21], Predicted Win Rate: 1.00
+2025-03-12 12:44:34,320 - __main__ - INFO - Deck: [1, 28, 30, 14, 32, 31, 16, 49, 15, 3, 41, 11, 38, 44, 6, 20, 12, 7, 46, 36, 26, 39, 33, 47, 5, 18, 50, 4, 35, 42], Predicted Win Rate: 1.00
+2025-03-12 12:44:34,321 - __main__ - INFO - Deck: [1, 19, 42, 47, 20, 8, 2, 43, 9, 12, 3, 31, 35, 40, 6, 16, 44, 48, 22, 10, 41, 14, 4, 23, 39, 18, 11, 27, 49, 25], Predicted Win Rate: 1.00
